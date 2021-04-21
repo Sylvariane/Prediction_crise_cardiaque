@@ -1,4 +1,6 @@
-# Prediction_crise_cardiaque
+# Prediction des crises cardiaques
+
+*Projet disponible ici :* [Notebook Kaggle](https://www.kaggle.com/cecileguillot/eda-and-ml-comparisons)
 
 Ce projet est un projet personnel d'initiation au Machine Learning.
 Il comporte une partie de nettoyage de données, une partie de statistiques descriptives, une partie de statistiques inférentielles et une partie de modélisation.
